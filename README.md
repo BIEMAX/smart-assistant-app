@@ -28,7 +28,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Course
 
-Aula 1 - 
-Aula 2 - 
+Aula 1 - https://www.youtube.com/watch?v=5vPaoV9SV5U
+
+Aula 2 - https://www.youtube.com/watch?v=P7vkmuYjhGQ
+
 Aula 3 - https://www.youtube.com/watch?v=8ZUfbV8F2Cw
 
