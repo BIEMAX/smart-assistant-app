@@ -26,6 +26,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Material to develop
+
+Angular Material Components
+
+> https://material.angular.io/components/
+
+Angular Material Default Icons
+
+> https://material.io/resources/icons/?style=baseline
+
 ## Course
 
 Aula 1 - https://www.youtube.com/watch?v=5vPaoV9SV5U
@@ -34,3 +44,6 @@ Aula 2 - https://www.youtube.com/watch?v=P7vkmuYjhGQ
 
 Aula 3 - https://www.youtube.com/watch?v=8ZUfbV8F2Cw
 
+Aula 4 - https://www.youtube.com/watch?v=V8z97sWDKNs
+
+> **Aviso:** Na aula 4 apresenta como fazer a importação dos componentes do angular material dentro do projeto.
