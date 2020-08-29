@@ -1,6 +1,17 @@
-.center {
+/* .center {
     margin: auto;
     width: 60%;
     border: 3px solid #73AD21;
     padding: 10px;
-  }
+  } */
+
+mat-card {
+  max-width: 400px;
+  margin: 2em auto;
+  margin-top: 2em auto;
+  text-align: center;
+}
+
+mat-form-field {
+  display: block;
+}
