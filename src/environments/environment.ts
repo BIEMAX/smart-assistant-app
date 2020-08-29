@@ -9,5 +9,5 @@ export const environment = {
 };
 
 export const userInterface = {
-  controlColors: "accent", //Can be: primary (purple), accent (pink) or warn (orange)
+  controlColors: "primary", //Can be: primary (purple), accent (pink) or warn (orange)
 };
